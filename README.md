@@ -62,6 +62,7 @@ To use this project, you need MATLAB installed on your system. Follow these step
 ## Usage
 
 This script is designed for:
-	•	Beginners: Gain familiarity with MATLAB syntax and key commands.
-	•	Researchers and Students: Use as a quick reference for essential MATLAB operations.
-	•	Self-Learners: Experiment with the provided examples to enhance your skills.
+
+- Beginners: Gain familiarity with MATLAB syntax and key commands.
+- Researchers and Students: Use as a quick reference for essential MATLAB operations.
+- Self-Learners: Experiment with the provided examples to enhance your skills.
