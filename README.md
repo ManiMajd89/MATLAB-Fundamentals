@@ -14,8 +14,6 @@ Welcome to the **MATLAB Basics** repository! This project serves as an introduct
   - [Data Visualization](#data-visualization)
   - [Miscellaneous Functions](#miscellaneous-functions)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,27 +36,27 @@ To use this project, you need MATLAB installed on your system. Follow these step
 ## Script Overview
 
 ### Arrays and Matrices
-	•	Row and Column Vectors: Create vectors using square brackets and manage row/column transpositions.
-	•	Matrix Creation: Use built-in functions like rand, ones, zeros, and eye to generate matrices.
-	•	Slicing and Indexing: Access specific elements, rows, columns, or sub-matrices.
+- Row and Column Vectors: Create vectors using square brackets and manage row/column transpositions.
+- Matrix Creation: Use built-in functions like rand, ones, zeros, and eye to generate matrices.
+- Slicing and Indexing: Access specific elements, rows, columns, or sub-matrices.
 
 ### Mathematical Operations
-	•	Perform scalar operations like addition and multiplication.
-	•	Compute square roots, maximum values, and element-wise operations using .* and .^.
-	•	Resize matrices and manipulate their dimensions with functions like size.
+- Perform scalar operations like addition and multiplication.
+- Compute square roots, maximum values, and element-wise operations using .* and .^.
+- Resize matrices and manipulate their dimensions with functions like size.
 
 ### Logical Operations
-	•	Apply relational operators (>, <, ==, ~=) for comparisons.
-	•	Use logical indexing to filter or modify specific elements of vectors or matrices.
+- Apply relational operators (>, <, ==, ~=) for comparisons.
+- Use logical indexing to filter or modify specific elements of vectors or matrices.
 
 ### Programming Constructs
-	•	Implement if statements, for loops, and other control flow structures.
-	•	Explore how MATLAB handles loop indices and logical conditions.
+- Implement if statements, for loops, and other control flow structures.
+- Explore how MATLAB handles loop indices and logical conditions.
 
 ### Data Visualization
-	•	Create and customize plots with the plot function.
-	•	Add titles, labels, legends, and modify line styles, colors, and markers.
-	•	Learn to overlay multiple plots using hold on and hold off.
+- Create and customize plots with the plot function.
+- Add titles, labels, legends, and modify line styles, colors, and markers.
+- Learn to overlay multiple plots using hold on and hold off.
 
 ## Usage
 
