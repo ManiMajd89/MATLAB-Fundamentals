@@ -29,9 +29,10 @@ This script covers:
 ## Getting Started
 
 To use this project, you need MATLAB installed on your system. Follow these steps:
-	1.	Clone the repository: git clone https://github.com/yourusername/matlab-basics.git
-	2.	Open the matlab_basics.m script in MATLAB.
-	3.	Run sections of the script individually to explore the commands and their outputs.
+
+1. Clone the repository: git clone https://github.com/yourusername/matlab-basics.git
+2. Open the matlab_basics.m script in MATLAB.
+3. Run sections of the script individually to explore the commands and their outputs.
 
 ## Script Overview
 
