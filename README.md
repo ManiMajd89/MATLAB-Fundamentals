@@ -1,25 +1,32 @@
-# MATLAB-Fundamentals
-This repository contains a comprehensive script summarizing fundamental MATLAB commands and concepts. It serves as an introductory reference for beginners and a quick guide for essential MATLAB operations.
+# MATLAB Basics: Introduction to Key Commands
+
+Welcome to the **MATLAB Basics** repository! This project serves as an introductory guide to MATLAB programming, summarizing key commands and concepts. It is designed for beginners and those looking for a quick reference on MATLAB's capabilities.
 
 ## Table of Contents
-	•	Features
-	•	Getting Started
-	•	Script Overview
-	•	Arrays and Matrices
-	•	Mathematical Operations
-	•	Logical Operations
-	•	Programming Constructs
-	•	Data Visualization
-	•	Usage
-	•	Contributing
-	•	License
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Script Overview](#script-overview)
+  - [Arrays and Matrices](#arrays-and-matrices)
+  - [Mathematical Operations](#mathematical-operations)
+  - [Logical Operations](#logical-operations)
+  - [Programming Constructs](#programming-constructs)
+  - [Data Visualization](#data-visualization)
+  - [Miscellaneous Functions](#miscellaneous-functions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
-	•	Array and Matrix Operations: Learn how to create, manipulate, and slice matrices and vectors.
-	•	Mathematical Functions: Perform matrix multiplication, element-wise operations, and more.
-	•	Logical Indexing: Use relational operators and logical conditions to filter or modify data.
-	•	Programming Constructs: Explore loops, conditional statements, and logical workflows.
-	•	Data Visualization: Plot and customize graphs with labels, legends, and styles.
+
+This script covers:
+- **Array and Matrix Operations**: Creating and manipulating vectors and matrices.
+- **Mathematical Functions**: Performing scalar and element-wise operations.
+- **Logical Indexing**: Applying relational and logical operations on data.
+- **Programming Constructs**: Examples of loops, conditional statements, and indexing.
+- **Data Visualization**: Customizing plots with labels, legends, and styles.
+- **Miscellaneous Functions**: Using built-in functions like `size`, `max`, and more.
+
 
 ## Getting Started
 
